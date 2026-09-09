@@ -1,0 +1,6 @@
+{
+  "name": "Clínica Médico",
+  "description": "Clínica Popular em Apucarana: R. Gastão Vidigal, 946 - Centro. Consultas com médicos especialistas como Dr. Fernando (Neurologia) e Dr. Osvaldo Zardo, exames laboratoriais, acessibilidade completa e agendamento ágil. WhatsApp: (43) 99800-4033 • Fixo: (43) 3424-5635.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
